@@ -1,0 +1,703 @@
+avibaseid,common_name,order,family,scientific_name,status
+B7159EF0DE54C384,Bar-headed Goose,Anseriformes, Anatidae,Anser indicus,Introduced species
+D3A260BCA65503C6,Snow Goose,Anseriformes, Anatidae,Anser caerulescens,Rare/Accidental
+7A24F57F87F66E97,Ross's Goose,Anseriformes, Anatidae,Anser rossii,Uncertain origin
+4AED44E819A43204,Graylag Goose,Anseriformes, Anatidae,Anser anser,
+466E9077BE220EBE,Greater White-fronted Goose,Anseriformes, Anatidae,Anser albifrons,
+184D232983E7AD10,Lesser White-fronted Goose,Anseriformes, Anatidae,Anser erythropus,Rare/AccidentalVulnerable
+BDB497A352D152DB,Taiga Bean-Goose,Anseriformes, Anatidae,Anser fabalis,
+AD849FCBCC68A520,Tundra Bean-Goose,Anseriformes, Anatidae,Anser serrirostris,
+AFA7EE7470F000E9,Pink-footed Goose,Anseriformes, Anatidae,Anser brachyrhynchus,
+3E04020B54C14FCC,Brant,Anseriformes, Anatidae,Branta bernicla,
+3163ED86A508BB83,Barnacle Goose,Anseriformes, Anatidae,Branta leucopsis,
+60214D4970BA4158,Cackling Goose,Anseriformes, Anatidae,Branta hutchinsii,Introduced species
+B59E18633E2EFD25,Canada Goose,Anseriformes, Anatidae,Branta canadensis,Introduced species
+0D280B3F11B099B2,Red-breasted Goose,Anseriformes, Anatidae,Branta ruficollis,Rare/AccidentalVulnerable
+694C127A5D849FFE,Mute Swan,Anseriformes, Anatidae,Cygnus olor,
+0BCBA6B9CC19E7BA,Tundra Swan,Anseriformes, Anatidae,Cygnus columbianus,
+BDDB5670D2D20A55,Whooper Swan,Anseriformes, Anatidae,Cygnus cygnus,
+DA2F24E310CF72A6,Egyptian Goose,Anseriformes, Anatidae,Alopochen aegyptiaca,Introduced species
+1F9D883EB44DEFD6,Ruddy Shelduck,Anseriformes, Anatidae,Tadorna ferruginea,Rare/Accidental
+5EAB32D3007896F3,Common Shelduck,Anseriformes, Anatidae,Tadorna tadorna,
+E1714A09EA1DFD1D,Mandarin Duck,Anseriformes, Anatidae,Aix galericulata,Introduced species
+63EABB42903040B4,Baikal Teal,Anseriformes, Anatidae,Sibirionetta formosa,Uncertain origin
+F577BA0F5BB7BD3F,Garganey,Anseriformes, Anatidae,Spatula querquedula,
+90E2543E9A4ABA0A,Blue-winged Teal,Anseriformes, Anatidae,Spatula discors,Rare/Accidental
+ED4CE8E7CFF43696,Northern Shoveler,Anseriformes, Anatidae,Spatula clypeata,
+C235A4D712BB8855,Gadwall,Anseriformes, Anatidae,Mareca strepera,
+978D448531E03998,Falcated Duck,Anseriformes, Anatidae,Mareca falcata,Rare/Accidental
+15EE0D3685082E13,Eurasian Wigeon,Anseriformes, Anatidae,Mareca penelope,
+D201EB7230F20770,American Wigeon,Anseriformes, Anatidae,Mareca americana,Rare/Accidental
+E21470F9073AC877,Eastern Spot-billed Duck,Anseriformes, Anatidae,Anas zonorhyncha,Uncertain origin
+85625D75F2524457,Mallard,Anseriformes, Anatidae,Anas platyrhynchos,
+C732CB106EE8BAE8,American Black Duck,Anseriformes, Anatidae,Anas rubripes,Rare/Accidental
+56CCA7179C9FA71D,Northern Pintail,Anseriformes, Anatidae,Anas acuta,
+BC6C3CCE5C1B5D9B,Green-winged Teal,Anseriformes, Anatidae,Anas crecca,
+6362936EA12874F1,Marbled Duck,Anseriformes, Anatidae,Marmaronetta angustirostris,Uncertain originNear-threatened
+3EC2CDA952B4A18C,Red-crested Pochard,Anseriformes, Anatidae,Netta rufina,
+1929E1E16E073570,Canvasback,Anseriformes, Anatidae,Aythya valisineria,Rare/Accidental
+3072CC168280168B,Redhead,Anseriformes, Anatidae,Aythya americana,
+A96692E0C9F7508B,Common Pochard,Anseriformes, Anatidae,Aythya ferina,Vulnerable
+0783A7EA9C26947D,Ring-necked Duck,Anseriformes, Anatidae,Aythya collaris,Rare/Accidental
+7CF91527F5832F30,Ferruginous Duck,Anseriformes, Anatidae,Aythya nyroca,Near-threatened
+67CEA1C1FC88F1DB,Tufted Duck,Anseriformes, Anatidae,Aythya fuligula,
+25C94A8F90A829F7,Greater Scaup,Anseriformes, Anatidae,Aythya marila,
+50566E50C91B8686,Lesser Scaup,Anseriformes, Anatidae,Aythya affinis,Rare/Accidental
+BA07D0168474EB92,Steller's Eider,Anseriformes, Anatidae,Polysticta stelleri,Rare/AccidentalVulnerable
+F3D7491432CC59E7,King Eider,Anseriformes, Anatidae,Somateria spectabilis,Rare/Accidental
+B77377EEB852D0AF,Common Eider,Anseriformes, Anatidae,Somateria mollissima,Near-threatened
+BCBD2EAECA774B19,Harlequin Duck,Anseriformes, Anatidae,Histrionicus histrionicus,Rare/Accidental
+624078BAC17F8111,Surf Scoter,Anseriformes, Anatidae,Melanitta perspicillata,
+BAF44E36E8D647CB,Velvet Scoter,Anseriformes, Anatidae,Melanitta fusca,Vulnerable
+4800D6B673F13A48,White-winged Scoter,Anseriformes, Anatidae,Melanitta deglandi,Rare/Accidental
+1A601D86C048CBAA,Stejneger's Scoter,Anseriformes, Anatidae,Melanitta stejnegeri,Rare/Accidental
+246981996A4998ED,Common Scoter,Anseriformes, Anatidae,Melanitta nigra,
+B7B1A5DD94724A05,Black Scoter,Anseriformes, Anatidae,Melanitta americana,Near-threatened
+AF0C7BDEC7CEBAAC,Long-tailed Duck,Anseriformes, Anatidae,Clangula hyemalis,Vulnerable
+FB7383856D0DB2EA,Bufflehead,Anseriformes, Anatidae,Bucephala albeola,Rare/Accidental
+68EA281AF74846D2,Common Goldeneye,Anseriformes, Anatidae,Bucephala clangula,
+9456DEDF7E1AADF3,Barrow's Goldeneye,Anseriformes, Anatidae,Bucephala islandica,Rare/Accidental
+F1F520368CC95F88,Smew,Anseriformes, Anatidae,Mergellus albellus,
+60E6081E3DF8CFA4,Hooded Merganser,Anseriformes, Anatidae,Lophodytes cucullatus,Rare/Accidental
+407E2CA886367DBB,Common Merganser,Anseriformes, Anatidae,Mergus merganser,
+8DB64266A42FC19B,Red-breasted Merganser,Anseriformes, Anatidae,Mergus serrator,
+675EEA7FBD490CED,Ruddy Duck,Anseriformes, Anatidae,Oxyura jamaicensis,
+2E40EF2C53646E30,White-headed Duck,Anseriformes, Anatidae,Oxyura leucocephala,Uncertain originEndangered
+FC3D07C64FF2C915,Willow Ptarmigan,Galliformes, Phasianidae,Lagopus lagopus,
+79B161B7017DD7ED,Rock Ptarmigan,Galliformes, Phasianidae,Lagopus muta,
+C3221EE24B948F50,Western Capercaillie,Galliformes, Phasianidae,Tetrao urogallus,
+D4441CD6E9C993EF,Black Grouse,Galliformes, Phasianidae,Lyrurus tetrix,
+C013A20E7F91419D,Gray Partridge,Galliformes, Phasianidae,Perdix perdix,
+093AC1FC5140E629,Golden Pheasant,Galliformes, Phasianidae,Chrysolophus pictus,Introduced species
+DDF032E83155CBB2,Lady Amherst's Pheasant,Galliformes, Phasianidae,Chrysolophus amherstiae,Introduced species
+2FA39DCD42F80BC9,Ring-necked Pheasant,Galliformes, Phasianidae,Phasianus colchicus,Introduced species
+CAFE345DCABD8BF8,Common Quail,Galliformes, Phasianidae,Coturnix coturnix,
+F71E0BE60C5B3C98,Red-legged Partridge,Galliformes, Phasianidae,Alectoris rufa,Introduced speciesNear-threatened
+BBA263C235B15B88,Rock Pigeon,Columbiformes, Columbidae,Columba livia,
+68E4C0D1404A46D8,Stock Dove,Columbiformes, Columbidae,Columba oenas,
+760F307A30689D66,Common Wood-Pigeon,Columbiformes, Columbidae,Columba palumbus,
+D397FE255A606DE8,Passenger Pigeon,Columbiformes, Columbidae,Ectopistes migratorius,Rare/AccidentalExtinct
+5788552B694ED7B5,European Turtle-Dove,Columbiformes, Columbidae,Streptopelia turtur,Vulnerable
+6658BAC574088183,Oriental Turtle-Dove,Columbiformes, Columbidae,Streptopelia orientalis,Rare/Accidental
+0C1EFC9B44C459D3,Eurasian Collared-Dove,Columbiformes, Columbidae,Streptopelia decaocto,
+00124D987C95811B,Mourning Dove,Columbiformes, Columbidae,Zenaida macroura,Rare/Accidental
+BDCB55F1196CAC6A,Pallas's Sandgrouse,Pterocliformes, Pteroclidae,Syrrhaptes paradoxus,Rare/Accidental
+942BC61855ED501E,Spotted Sandgrouse,Pterocliformes, Pteroclidae,Pterocles senegallus,Uncertain origin
+C6F33176724AC933,Great Bustard,Otidiformes, Otididae,Otis tarda,Rare/AccidentalEndangered
+1BCEB0FD7CDFB06A,Asian Houbara,Otidiformes, Otididae,Chlamydotis macqueenii,Rare/AccidentalVulnerable
+56E3016D3370A6D5,Little Bustard,Otidiformes, Otididae,Tetrax tetrax,Rare/AccidentalNear-threatened
+3D67C56A490A60AE,Great Spotted Cuckoo,Cuculiformes, Cuculidae,Clamator glandarius,Rare/Accidental
+0CF12F8155708DC8,Yellow-billed Cuckoo,Cuculiformes, Cuculidae,Coccyzus americanus,Rare/Accidental
+41E9F54BDA04ACBA,Black-billed Cuckoo,Cuculiformes, Cuculidae,Coccyzus erythropthalmus,Rare/Accidental
+B3D2C3C5B73EC8E8,Common Cuckoo,Cuculiformes, Cuculidae,Cuculus canorus,
+24E39ACD5692DA4A,Common Nighthawk,Caprimulgiformes, Caprimulgidae,Chordeiles minor,Rare/Accidental
+6CC3D04BF479A2A2,Red-necked Nightjar,Caprimulgiformes, Caprimulgidae,Caprimulgus ruficollis,Rare/AccidentalNear-threatened
+80D4B0FE7FF1D735,Eurasian Nightjar,Caprimulgiformes, Caprimulgidae,Caprimulgus europaeus,
+2F7F024457A842B1,Egyptian Nightjar,Caprimulgiformes, Caprimulgidae,Caprimulgus aegyptius,Rare/Accidental
+C3AD1AFF63D26461,Chimney Swift,Apodiformes, Apodidae,Chaetura pelagica,Rare/AccidentalVulnerable
+EA55CA2791012786,White-throated Needletail,Apodiformes, Apodidae,Hirundapus caudacutus,Rare/Accidental
+FA1CAD2906F7C845,Alpine Swift,Apodiformes, Apodidae,Tachymarptis melba,Rare/Accidental
+4E6EF3F983079D73,Common Swift,Apodiformes, Apodidae,Apus apus,
+332BC664DFABB965,Pallid Swift,Apodiformes, Apodidae,Apus pallidus,Rare/Accidental
+E23EBEFB47EB1EB0,Pacific Swift,Apodiformes, Apodidae,Apus pacificus,Rare/Accidental
+D209A90C8A90DA51,Little Swift,Apodiformes, Apodidae,Apus affinis,Rare/Accidental
+FA9F60196383DBA2,White-rumped Swift,Apodiformes, Apodidae,Apus caffer,Rare/Accidental
+DE1D2DF4456931FF,Water Rail,Gruiformes, Rallidae,Rallus aquaticus,
+7E2572426E200D08,Corn Crake,Gruiformes, Rallidae,Crex crex,
+2CC21529B5674AEB,Sora,Gruiformes, Rallidae,Porzana carolina,Rare/Accidental
+460708F99737A6A2,Spotted Crake,Gruiformes, Rallidae,Porzana porzana,
+8F82FF8C30667D90,Eurasian Moorhen,Gruiformes, Rallidae,Gallinula chloropus,
+B682B2A9C922D4C4,Eurasian Coot,Gruiformes, Rallidae,Fulica atra,
+4FB248BAEFEC2868,American Coot,Gruiformes, Rallidae,Fulica americana,Rare/Accidental
+53288666B2C70F88,Allen's Gallinule,Gruiformes, Rallidae,Porphyrio alleni,Rare/Accidental
+72A4F8EBF168E80D,Purple Gallinule,Gruiformes, Rallidae,Porphyrio martinica,Rare/Accidental
+B6838E0C27EAD078,Western Swamphen,Gruiformes, Rallidae,Porphyrio porphyrio,Rare/Accidental
+BFAE9B0403627027,Gray-headed Swamphen,Gruiformes, Rallidae,Porphyrio poliocephalus,Uncertain origin
+9106EBE6C0914933,Little Crake,Gruiformes, Rallidae,Zapornia parva,Rare/Accidental
+34D5B04DE53894FF,Baillon's Crake,Gruiformes, Rallidae,Zapornia pusilla,Rare/Accidental
+E196D6F9AB1DFF7E,Sandhill Crane,Gruiformes, Gruidae,Antigone canadensis,Rare/Accidental
+99B8841E764117B1,Common Crane,Gruiformes, Gruidae,Grus grus,
+C7DB323E37CEDBE6,Eurasian Thick-knee,Charadriiformes, Burhinidae,Burhinus oedicnemus,
+3CAEB7CEEC7FFF50,Black-winged Stilt,Charadriiformes, Recurvirostridae,Himantopus himantopus,Rare/Accidental
+C73ED2F5D88625BA,Pied Avocet,Charadriiformes, Recurvirostridae,Recurvirostra avosetta,
+ED66316522B99A30,Eurasian Oystercatcher,Charadriiformes, Haematopodidae,Haematopus ostralegus,Near-threatened
+27903EF7E618A6A2,Black-bellied Plover,Charadriiformes, Charadriidae,Pluvialis squatarola,Vulnerable
+25A20BA6F7EA9D9A,European Golden-Plover,Charadriiformes, Charadriidae,Pluvialis apricaria,
+2143A8526CA7C809,American Golden-Plover,Charadriiformes, Charadriidae,Pluvialis dominica,Rare/Accidental
+07C11CF340D2017A,Pacific Golden-Plover,Charadriiformes, Charadriidae,Pluvialis fulva,Rare/Accidental
+20BE9DF14579BD4A,Eurasian Dotterel,Charadriiformes, Charadriidae,Eudromias morinellus,
+BCF9A19AFE372627,Killdeer,Charadriiformes, Charadriidae,Charadrius vociferus,Rare/AccidentalNear-threatened
+EDA37B7C5D4A25ED,Common Ringed Plover,Charadriiformes, Charadriidae,Charadrius hiaticula,
+95E28A57CB50B0D7,Semipalmated Plover,Charadriiformes, Charadriidae,Charadrius semipalmatus,Rare/Accidental
+35EC3BBF166AB032,Little Ringed Plover,Charadriiformes, Charadriidae,Thinornis dubius,
+F029489ABD9D1334,Northern Lapwing,Charadriiformes, Charadriidae,Vanellus vanellus,Near-threatened
+8F8F0CF04F2CB9F8,Gray-headed Lapwing,Charadriiformes, Charadriidae,Vanellus cinereus,Rare/Accidental
+D348C2D65FA2DF83,Sociable Lapwing,Charadriiformes, Charadriidae,Vanellus gregarius,Rare/AccidentalCritically endangered
+A480FDDF8BBC5443,White-tailed Lapwing,Charadriiformes, Charadriidae,Vanellus leucurus,Rare/Accidental
+264D03516760D706,Caspian Plover,Charadriiformes, Charadriidae,Anarhynchus asiaticus,Rare/Accidental
+66DA1FB3162F3239,Siberian Sand-Plover,Charadriiformes, Charadriidae,Anarhynchus mongolus,Rare/AccidentalEndangered
+828D3D5A6AFE2F26,Tibetan Sand-Plover,Charadriiformes, Charadriidae,Anarhynchus atrifrons,Rare/Accidental
+98B9C10B606A4FF1,Greater Sand-Plover,Charadriiformes, Charadriidae,Anarhynchus leschenaultii,Rare/Accidental
+AA4385A283B9A81E,Kentish Plover,Charadriiformes, Charadriidae,Anarhynchus alexandrinus,
+BF1DA86E0714FD01,Upland Sandpiper,Charadriiformes, Scolopacidae,Bartramia longicauda,Rare/Accidental
+F9305BAA638BAEFC,Whimbrel,Charadriiformes, Scolopacidae,Numenius phaeopus,
+C00E1EB8C00BCC31,Little Curlew,Charadriiformes, Scolopacidae,Numenius minutus,Rare/Accidental
+FB9305DB788ED649,Eskimo Curlew,Charadriiformes, Scolopacidae,Numenius borealis,Rare/AccidentalCritically endangered(possibly extinct)
+7A35DE8186E4DF43,Slender-billed Curlew,Charadriiformes, Scolopacidae,Numenius tenuirostris,Rare/AccidentalCritically endangered
+3BB5CBA66CF48884,Eurasian Curlew,Charadriiformes, Scolopacidae,Numenius arquata,Near-threatened
+9A684C997C1AF1BA,Bar-tailed Godwit,Charadriiformes, Scolopacidae,Limosa lapponica,Near-threatened
+454B5CD5F5285B77,Black-tailed Godwit,Charadriiformes, Scolopacidae,Limosa limosa,Near-threatened
+930139644308C7B7,Hudsonian Godwit,Charadriiformes, Scolopacidae,Limosa haemastica,Rare/AccidentalVulnerable
+4A3B2CFF53868550,Short-billed Dowitcher,Charadriiformes, Scolopacidae,Limnodromus griseus,Rare/AccidentalVulnerable
+CB343E43E8CAF303,Long-billed Dowitcher,Charadriiformes, Scolopacidae,Limnodromus scolopaceus,Rare/AccidentalNear-threatened
+1A15F0C6B4948C52,Jack Snipe,Charadriiformes, Scolopacidae,Lymnocryptes minimus,
+BFE14290EA4326FA,Eurasian Woodcock,Charadriiformes, Scolopacidae,Scolopax rusticola,
+BCCD5840C7A6D538,Great Snipe,Charadriiformes, Scolopacidae,Gallinago media,Rare/AccidentalNear-threatened
+9151E0BA75761647,Common Snipe,Charadriiformes, Scolopacidae,Gallinago gallinago,
+F5C8516D3B9C7686,Wilson's Snipe,Charadriiformes, Scolopacidae,Gallinago delicata,Rare/Accidental
+667C6969D7874433,Wilson's Phalarope,Charadriiformes, Scolopacidae,Phalaropus tricolor,Rare/Accidental
+18A1938091EEEA73,Red Phalarope,Charadriiformes, Scolopacidae,Phalaropus fulicarius,
+E6F3BA54577746FB,Red-necked Phalarope,Charadriiformes, Scolopacidae,Phalaropus lobatus,
+6D5992EEE12070E8,Terek Sandpiper,Charadriiformes, Scolopacidae,Xenus cinereus,Rare/Accidental
+8548B07ECA48773F,Common Sandpiper,Charadriiformes, Scolopacidae,Actitis hypoleucos,
+0D88C072E71FE4B8,Spotted Sandpiper,Charadriiformes, Scolopacidae,Actitis macularius,Rare/Accidental
+A7B17EFC92B53D29,Green Sandpiper,Charadriiformes, Scolopacidae,Tringa ochropus,
+D4A73324DB24F142,Solitary Sandpiper,Charadriiformes, Scolopacidae,Tringa solitaria,Rare/Accidental
+29256A389375B43E,Gray-tailed Tattler,Charadriiformes, Scolopacidae,Tringa brevipes,Rare/Accidental
+15CF9352AD0E92DF,Marsh Sandpiper,Charadriiformes, Scolopacidae,Tringa stagnatilis,Rare/Accidental
+8E67DC5F68BDF62C,Wood Sandpiper,Charadriiformes, Scolopacidae,Tringa glareola,
+D6BFC73A3E067711,Common Redshank,Charadriiformes, Scolopacidae,Tringa totanus,
+2C7A2673444BECF0,Lesser Yellowlegs,Charadriiformes, Scolopacidae,Tringa flavipes,Rare/AccidentalVulnerable
+0895DD84DB3A45D1,Spotted Redshank,Charadriiformes, Scolopacidae,Tringa erythropus,
+18B415D28BBF934C,Common Greenshank,Charadriiformes, Scolopacidae,Tringa nebularia,
+6EB81C98A8FD9CE6,Greater Yellowlegs,Charadriiformes, Scolopacidae,Tringa melanoleuca,Rare/AccidentalNear-threatened
+DC3050A9771F2CE9,Ruddy Turnstone,Charadriiformes, Scolopacidae,Arenaria interpres,Near-threatened
+09C51FA9A4E5C3E8,Great Knot,Charadriiformes, Scolopacidae,Calidris tenuirostris,Rare/AccidentalEndangered
+B5CE8FAD18923A94,Red Knot,Charadriiformes, Scolopacidae,Calidris canutus,Near-threatened
+2DABF98FBEEAB7BB,Ruff,Charadriiformes, Scolopacidae,Calidris pugnax,
+0A14882F5F9F64E6,Broad-billed Sandpiper,Charadriiformes, Scolopacidae,Calidris falcinellus,Rare/AccidentalVulnerable
+A0A67A811E53D89F,Sharp-tailed Sandpiper,Charadriiformes, Scolopacidae,Calidris acuminata,Rare/AccidentalVulnerable
+143A681C9BCE9A20,Curlew Sandpiper,Charadriiformes, Scolopacidae,Calidris ferruginea,Vulnerable
+ECDE73F2E6E6E622,Stilt Sandpiper,Charadriiformes, Scolopacidae,Calidris himantopus,Rare/AccidentalNear-threatened
+5ACF7FB313BEF9EA,Temminck's Stint,Charadriiformes, Scolopacidae,Calidris temminckii,
+7D629288C753814E,Long-toed Stint,Charadriiformes, Scolopacidae,Calidris subminuta,Rare/Accidental
+BBDF2F1BAC640E4D,Red-necked Stint,Charadriiformes, Scolopacidae,Calidris ruficollis,Rare/AccidentalNear-threatened
+3A3C62BC935BDA72,Buff-breasted Sandpiper,Charadriiformes, Scolopacidae,Calidris subruficollis,Rare/AccidentalVulnerable
+06B9BD243A756B28,Sanderling,Charadriiformes, Scolopacidae,Calidris alba,
+15369E8EB4CBD064,Dunlin,Charadriiformes, Scolopacidae,Calidris alpina,Near-threatened
+0A0B84313ACFFB2F,Purple Sandpiper,Charadriiformes, Scolopacidae,Calidris maritima,
+1F1AD154DAE2E070,Baird's Sandpiper,Charadriiformes, Scolopacidae,Calidris bairdii,Rare/Accidental
+9936FF4AFB430504,Little Stint,Charadriiformes, Scolopacidae,Calidris minuta,
+153BA3069DFCDDCA,White-rumped Sandpiper,Charadriiformes, Scolopacidae,Calidris fuscicollis,Rare/AccidentalVulnerable
+A47B0BD448AA34E0,Least Sandpiper,Charadriiformes, Scolopacidae,Calidris minutilla,Rare/AccidentalNear-threatened
+ACC99F35F0E8F7EB,Pectoral Sandpiper,Charadriiformes, Scolopacidae,Calidris melanotos,Rare/Accidental
+01060BFDFF0D9D28,Western Sandpiper,Charadriiformes, Scolopacidae,Calidris mauri,Rare/Accidental
+F35821AAC21FFF20,Semipalmated Sandpiper,Charadriiformes, Scolopacidae,Calidris pusilla,Rare/AccidentalNear-threatened
+DE0A72A7FA1E6DB7,Cream-colored Courser,Charadriiformes, Glareolidae,Cursorius cursor,Rare/Accidental
+D56ABB4EE468E9EF,Collared Pratincole,Charadriiformes, Glareolidae,Glareola pratincola,Rare/Accidental
+E1F6A875C32C042D,Black-winged Pratincole,Charadriiformes, Glareolidae,Glareola nordmanni,Rare/AccidentalNear-threatened
+3222F80FA99A55A7,Oriental Pratincole,Charadriiformes, Glareolidae,Glareola maldivarum,Rare/Accidental
+1D4464402EC9FD21,Long-tailed Jaeger,Charadriiformes, Stercorariidae,Stercorarius longicaudus,
+39086887E9EAFEB3,Parasitic Jaeger,Charadriiformes, Stercorariidae,Stercorarius parasiticus,
+7CB8F5B711DE64D0,Pomarine Jaeger,Charadriiformes, Stercorariidae,Stercorarius pomarinus,
+BB041C6E5DB73FC7,Great Skua,Charadriiformes, Stercorariidae,Stercorarius skua,
+F79373497BC9C8FD,Tufted Puffin,Charadriiformes, Alcidae,Fratercula cirrhata,Rare/Accidental
+2771624B64AD7F2C,Atlantic Puffin,Charadriiformes, Alcidae,Fratercula arctica,Vulnerable
+0518820F7A915A80,Long-billed Murrelet,Charadriiformes, Alcidae,Brachyramphus perdix,Rare/AccidentalNear-threatened
+B5AA5952E13FE5F3,Black Guillemot,Charadriiformes, Alcidae,Cepphus grylle,
+64F4DD81371B269F,Razorbill,Charadriiformes, Alcidae,Alca torda,
+57D2F32E062CB366,Great Auk,Charadriiformes, Alcidae,Pinguinus impennis,Rare/AccidentalExtinct
+B0932D89F1F74318,Dovekie,Charadriiformes, Alcidae,Alle alle,
+B70B5840ABCD5CFC,Thick-billed Murre,Charadriiformes, Alcidae,Uria lomvia,Rare/Accidental
+39F29B55EF9A542F,Common Murre,Charadriiformes, Alcidae,Uria aalge,
+ACA4FEFE451B4BD8,Ancient Murrelet,Charadriiformes, Alcidae,Synthliboramphus antiquus,Rare/Accidental
+F89FD6E3A367C008,Little Gull,Charadriiformes, Laridae,Hydrocoloeus minutus,
+4CD353D243C27F86,Ross's Gull,Charadriiformes, Laridae,Rhodostethia rosea,Rare/Accidental
+FB4D08F0837D4683,Black-legged Kittiwake,Charadriiformes, Laridae,Rissa tridactyla,Vulnerable
+FED91A1F00C4E67C,Ivory Gull,Charadriiformes, Laridae,Pagophila eburnea,Rare/AccidentalNear-threatened
+86182656472B476B,Sabine's Gull,Charadriiformes, Laridae,Xema sabini,
+27CE7132A1848BCD,Slender-billed Gull,Charadriiformes, Laridae,Chroicocephalus genei,Rare/Accidental
+0337440E2A88E638,Bonaparte's Gull,Charadriiformes, Laridae,Chroicocephalus philadelphia,Rare/Accidental
+FB02DD9658CC1EC6,Black-headed Gull,Charadriiformes, Laridae,Chroicocephalus ridibundus,
+6CDC3C9C8B50EA71,Laughing Gull,Charadriiformes, Laridae,Leucophaeus atricilla,Rare/Accidental
+57C93A74CBC9863F,Franklin's Gull,Charadriiformes, Laridae,Leucophaeus pipixcan,Rare/Accidental
+EF930CDC7CE618F7,Pallas's Gull,Charadriiformes, Laridae,Ichthyaetus ichthyaetus,Rare/Accidental
+F7B9355E42C3F987,Audouin's Gull,Charadriiformes, Laridae,Ichthyaetus audouinii,Rare/AccidentalVulnerable
+052BFA8A77EED5AF,Mediterranean Gull,Charadriiformes, Laridae,Ichthyaetus melanocephalus,
+8C4CE60F3DA7955C,Black-tailed Gull,Charadriiformes, Laridae,Larus crassirostris,Rare/Accidental
+00DA9D9151189271,Common Gull,Charadriiformes, Laridae,Larus canus,
+23863F65441680FA,Ring-billed Gull,Charadriiformes, Laridae,Larus delawarensis,Rare/Accidental
+93CA037F6FFE9FDB,Caspian Gull,Charadriiformes, Laridae,Larus cachinnans,
+E6536E4E904EF414,Kelp Gull,Charadriiformes, Laridae,Larus dominicanus,Rare/Accidental
+60F32AF8F5E3E40B,American Herring Gull,Charadriiformes, Laridae,Larus smithsonianus,Rare/Accidental
+FD1EF7BB1FBB3311,Vega Gull,Charadriiformes, Laridae,Larus vegae,Rare/Accidental
+F002188E226DF09C,European Herring Gull,Charadriiformes, Laridae,Larus argentatus,
+E074D7069AE1303C,Yellow-legged Gull,Charadriiformes, Laridae,Larus michahellis,Rare/Accidental
+E826E9F3FBAED223,Great Black-backed Gull,Charadriiformes, Laridae,Larus marinus,
+A59FA446D6B40057,Glaucous Gull,Charadriiformes, Laridae,Larus hyperboreus,
+2D52E3A509137804,Lesser Black-backed Gull,Charadriiformes, Laridae,Larus fuscus,
+03AC32BA532FB6E3,Glaucous-winged Gull,Charadriiformes, Laridae,Larus glaucescens,Rare/Accidental
+456C7FAEF6E50426,Slaty-backed Gull,Charadriiformes, Laridae,Larus schistisagus,Rare/Accidental
+FB4FCB27CC5566D1,Iceland Gull,Charadriiformes, Laridae,Larus glaucoides,
+88AB027C4DF06D93,Black Skimmer,Charadriiformes, Laridae,Rynchops niger,Rare/Accidental
+05C7074BFEEFB5A9,White Tern,Charadriiformes, Laridae,Gygis alba,Rare/Accidental
+BEE4F34A70214978,Aleutian Tern,Charadriiformes, Laridae,Onychoprion aleuticus,Rare/AccidentalVulnerable
+3E7F825D03C0DC3E,Sooty Tern,Charadriiformes, Laridae,Onychoprion fuscatus,Rare/Accidental
+E6518B9D5C802F2A,Bridled Tern,Charadriiformes, Laridae,Onychoprion anaethetus,Rare/Accidental
+17310BF0FE9BAC8A,Little Tern,Charadriiformes, Laridae,Sternula albifrons,
+4B21F4D8DBD4F42D,Saunders's Tern,Charadriiformes, Laridae,Sternula saundersi,Rare/Accidental
+BE78E765F1DA8123,Least Tern,Charadriiformes, Laridae,Sternula antillarum,Rare/Accidental
+87168739C37AC427,Gull-billed Tern,Charadriiformes, Laridae,Gelochelidon nilotica,Rare/Accidental
+BC06BC0D1056BC7B,Caspian Tern,Charadriiformes, Laridae,Hydroprogne caspia,Rare/Accidental
+7AB4E42B260B5954,Whiskered Tern,Charadriiformes, Laridae,Chlidonias hybrida,Rare/Accidental
+115AF02DD58018FB,Black Tern,Charadriiformes, Laridae,Chlidonias niger,
+43CAAEE3B0D305D9,White-winged Tern,Charadriiformes, Laridae,Chlidonias leucopterus,Rare/Accidental
+D13B91229B2F157E,Forster's Tern,Charadriiformes, Laridae,Sterna forsteri,Rare/Accidental
+BDC5CF80BE6CFC21,Arctic Tern,Charadriiformes, Laridae,Sterna paradisaea,
+4D2FF6F13790ED7E,Common Tern,Charadriiformes, Laridae,Sterna hirundo,
+74236837A4AFD042,Roseate Tern,Charadriiformes, Laridae,Sterna dougallii,
+F7504353640C1055,Sandwich Tern,Charadriiformes, Laridae,Thalasseus sandvicensis,
+3F9E1C51FBD48FC1,Elegant Tern,Charadriiformes, Laridae,Thalasseus elegans,Rare/AccidentalNear-threatened
+D01CDECDCA736E26,Lesser Crested Tern,Charadriiformes, Laridae,Thalasseus bengalensis,Rare/Accidental
+CF8461BFDAE5E751,West African Crested Tern,Charadriiformes, Laridae,Thalasseus albididorsalis,Rare/Accidental
+719935EF80BDF4AB,Royal Tern,Charadriiformes, Laridae,Thalasseus maximus,Rare/Accidental
+0F9B5174A8ACF737,Greater Flamingo,Phoenicopteriformes, Phoenicopteridae,Phoenicopterus roseus,Uncertain origin
+215FEA89A0F19F5C,Little Grebe,Podicipediformes, Podicipedidae,Tachybaptus ruficollis,
+9A8E55D00554A088,Pied-billed Grebe,Podicipediformes, Podicipedidae,Podilymbus podiceps,Rare/Accidental
+018B316959E84738,Horned Grebe,Podicipediformes, Podicipedidae,Podiceps auritus,Vulnerable
+1CBD2CED48B674A4,Red-necked Grebe,Podicipediformes, Podicipedidae,Podiceps grisegena,
+8F269702DC208010,Great Crested Grebe,Podicipediformes, Podicipedidae,Podiceps cristatus,
+32DCEC14D7AE129B,Eared Grebe,Podicipediformes, Podicipedidae,Podiceps nigricollis,
+1D07B501FEAF0840,White-tailed Tropicbird,Phaethontiformes, Phaethontidae,Phaethon lepturus,Rare/Accidental
+7EE005BD2701D129,Red-billed Tropicbird,Phaethontiformes, Phaethontidae,Phaethon aethereus,Rare/Accidental
+6C50988A5445ED76,Red-throated Loon,Gaviiformes, Gaviidae,Gavia stellata,
+CA5852BE6E617DBD,Arctic Loon,Gaviiformes, Gaviidae,Gavia arctica,
+B7D7EF2398F42295,Pacific Loon,Gaviiformes, Gaviidae,Gavia pacifica,Rare/Accidental
+7E02237895784E9A,Common Loon,Gaviiformes, Gaviidae,Gavia immer,
+5349255DB4579713,Yellow-billed Loon,Gaviiformes, Gaviidae,Gavia adamsii,Rare/AccidentalNear-threatened
+A28D8D38F9A022A4,Snowy Albatross,Procellariiformes, Diomedeidae,Diomedea exulans,Rare/AccidentalVulnerable
+EA2FA91827802E23,Atlantic Yellow-nosed Albatross,Procellariiformes, Diomedeidae,Thalassarche chlororhynchos,Rare/AccidentalEndangered
+F9FCB9FF95FD3440,Black-browed Albatross,Procellariiformes, Diomedeidae,Thalassarche melanophris,Rare/Accidental
+D295D249BDB7E046,Wilson's Storm-Petrel,Procellariiformes, Oceanitidae,Oceanites oceanicus,
+E9DF118ED56564A9,White-faced Storm-Petrel,Procellariiformes, Oceanitidae,Pelagodroma marina,Rare/Accidental
+ACE8EADE6CE42400,Black-bellied Storm-Petrel,Procellariiformes, Oceanitidae,Fregetta tropica,Rare/Accidental
+E1638A370D09095C,European Storm-Petrel,Procellariiformes, Hydrobatidae,Hydrobates pelagicus,
+C5FB15C6D112FE91,Leach's Storm-Petrel,Procellariiformes, Hydrobatidae,Hydrobates leucorhous,Vulnerable
+80DE86705CC16A9A,Swinhoe's Storm-Petrel,Procellariiformes, Hydrobatidae,Hydrobates monorhis,Rare/AccidentalNear-threatened
+D3FAE385D584B014,Band-rumped Storm-Petrel,Procellariiformes, Hydrobatidae,Hydrobates castro,Rare/Accidental
+C1706A8B803AD6EF,Southern Giant-Petrel,Procellariiformes, Procellariidae,Macronectes giganteus,Rare/Accidental
+049D9AEA4AFBFDFA,Northern Fulmar,Procellariiformes, Procellariidae,Fulmarus glacialis,
+8116523B40EF3745,Trindade Petrel,Procellariiformes, Procellariidae,Pterodroma arminjoniana,Rare/AccidentalVulnerable
+A6EA486B4C3CA2A5,Zino's Petrel,Procellariiformes, Procellariidae,Pterodroma madeira,Rare/AccidentalEndangered
+26B5280F0A46A17E,Fea's Petrel,Procellariiformes, Procellariidae,Pterodroma feae,Rare/Accidental
+12286A1E6662F54C,Soft-plumaged Petrel,Procellariiformes, Procellariidae,Pterodroma mollis,Rare/Accidental
+F6533C4B9F518365,Bermuda Petrel,Procellariiformes, Procellariidae,Pterodroma cahow,Rare/AccidentalEndangered
+DCD73C3AFC4BDD4B,Black-capped Petrel,Procellariiformes, Procellariidae,Pterodroma hasitata,Rare/AccidentalEndangered
+058773E4925D5D2E,Bulwer's Petrel,Procellariiformes, Procellariidae,Bulweria bulwerii,Rare/Accidental
+35EB45A0494AEE57,White-chinned Petrel,Procellariiformes, Procellariidae,Procellaria aequinoctialis,Rare/AccidentalVulnerable
+710BB4E6D1B2E7FF,Cory's Shearwater,Procellariiformes, Procellariidae,Calonectris borealis,
+CA4D268D439B2832,Scopoli's Shearwater,Procellariiformes, Procellariidae,Calonectris diomedea,
+D6AB20A5DC3C2649,Cape Verde Shearwater,Procellariiformes, Procellariidae,Calonectris edwardsii,Rare/AccidentalNear-threatened
+8B879DFA2AFB1481,Great Shearwater,Procellariiformes, Procellariidae,Ardenna gravis,
+1725B07D51A40D6A,Sooty Shearwater,Procellariiformes, Procellariidae,Ardenna grisea,Near-threatened
+60825BF601060350,Short-tailed Shearwater,Procellariiformes, Procellariidae,Ardenna tenuirostris,Rare/Accidental
+5AEDC00231A5201C,Manx Shearwater,Procellariiformes, Procellariidae,Puffinus puffinus,
+FD97EC1E6EB57033,Yelkouan Shearwater,Procellariiformes, Procellariidae,Puffinus yelkouan,Rare/AccidentalVulnerable
+42F573C742DA4333,Balearic Shearwater,Procellariiformes, Procellariidae,Puffinus mauretanicus,Critically endangered
+5F555FDD48DEAC1C,Barolo Shearwater,Procellariiformes, Procellariidae,Puffinus baroli,Rare/Accidental
+E2817DAE1B24B31E,Black Stork,Ciconiiformes, Ciconiidae,Ciconia nigra,Rare/Accidental
+28825494A08AFE5A,White Stork,Ciconiiformes, Ciconiidae,Ciconia ciconia,
+00E090F87F64DBDB,Ascension Frigatebird,Suliformes, Fregatidae,Fregata aquila,Rare/AccidentalVulnerable
+8AA3B42E976C7B2A,Magnificent Frigatebird,Suliformes, Fregatidae,Fregata magnificens,Rare/Accidental
+534FB490884C6D33,Northern Gannet,Suliformes, Sulidae,Morus bassanus,
+0A4609D14FC148DF,Red-footed Booby,Suliformes, Sulidae,Sula sula,Rare/Accidental
+05520B42BE95E3ED,Brown Booby,Suliformes, Sulidae,Sula leucogaster,Rare/Accidental
+22D1B4A2F0911712,Masked Booby,Suliformes, Sulidae,Sula dactylatra,Rare/Accidental
+3DF5C587CE3CF1E1,Great Cormorant,Suliformes, Phalacrocoracidae,Phalacrocorax carbo,
+CECC7B264A61BD22,European Shag,Suliformes, Phalacrocoracidae,Gulosus aristotelis,
+3AC46C54EE4A6251,Double-crested Cormorant,Suliformes, Phalacrocoracidae,Nannopterum auritum,Rare/Accidental
+D4540F880A3EC3BB,Glossy Ibis,Pelecaniformes, Threskiornithidae,Plegadis falcinellus,Rare/Accidental
+B20FECE2231097F4,Northern Bald Ibis,Pelecaniformes, Threskiornithidae,Geronticus eremita,Uncertain originEndangered
+A0A584C1E7D786FE,Eurasian Spoonbill,Pelecaniformes, Threskiornithidae,Platalea leucorodia,
+8BAFB01E85D7AF4B,Great White Pelican,Pelecaniformes, Pelecanidae,Pelecanus onocrotalus,Uncertain origin
+7C6D8BA2AC91D368,Dalmatian Pelican,Pelecaniformes, Pelecanidae,Pelecanus crispus,Rare/AccidentalNear-threatened
+0F42F11AC607C758,Eurasian Bittern,Pelecaniformes, Ardeidae,Botaurus stellaris,
+13E9F9B48CD5A08A,American Bittern,Pelecaniformes, Ardeidae,Botaurus lentiginosus,Rare/Accidental
+0B361ED83051417E,Least Bittern,Pelecaniformes, Ardeidae,Botaurus exilis,Rare/Accidental
+7AAD57ACA1C4ECA9,Little Bittern,Pelecaniformes, Ardeidae,Botaurus minutus,Rare/Accidental
+C677249004161A94,Yellow-crowned Night Heron,Pelecaniformes, Ardeidae,Nyctanassa violacea,Rare/Accidental
+6BB94D7EA4D041A8,Black-crowned Night Heron,Pelecaniformes, Ardeidae,Nycticorax nycticorax,Rare/Accidental
+11512CF46992C660,Little Blue Heron,Pelecaniformes, Ardeidae,Egretta caerulea,Rare/Accidental
+AA7901D88E7203E5,Snowy Egret,Pelecaniformes, Ardeidae,Egretta thula,Rare/Accidental
+F2858F9FFB9DFDCF,Little Egret,Pelecaniformes, Ardeidae,Egretta garzetta,
+36DF115BD3E2C1C1,Striated Heron,Pelecaniformes, Ardeidae,Butorides striata,Rare/Accidental
+86D45B8F04F61F0E,Green Heron,Pelecaniformes, Ardeidae,Butorides virescens,Rare/Accidental
+CE73EBD7A90E9FCF,Squacco Heron,Pelecaniformes, Ardeidae,Ardeola ralloides,Rare/Accidental
+56292AA80E2251F0,Chinese Pond-Heron,Pelecaniformes, Ardeidae,Ardeola bacchus,Rare/Accidental
+AB1CB2161CDC177A,Western Cattle-Egret,Pelecaniformes, Ardeidae,Ardea ibis,
+49D9148A171E7F2E,Great Egret,Pelecaniformes, Ardeidae,Ardea alba,Rare/Accidental
+6429024DBA7AB672,Gray Heron,Pelecaniformes, Ardeidae,Ardea cinerea,
+93694BB5492F7012,Great Blue Heron,Pelecaniformes, Ardeidae,Ardea herodias,Rare/Accidental
+3395DCF1CE3A8C91,Purple Heron,Pelecaniformes, Ardeidae,Ardea purpurea,
+1327AC55AA9D579B,Osprey,Accipitriformes, Pandionidae,Pandion haliaetus,
+97C47F3E1BA4129A,Black-winged Kite,Accipitriformes, Accipitridae,Elanus caeruleus,Rare/Accidental
+81DB7410BE70406B,Bearded Vulture,Accipitriformes, Accipitridae,Gypaetus barbatus,Rare/AccidentalNear-threatened
+6D3480A64B4953CE,Egyptian Vulture,Accipitriformes, Accipitridae,Neophron percnopterus,Rare/AccidentalEndangered
+ED5A7E8F6EDBB78E,European Honey-buzzard,Accipitriformes, Accipitridae,Pernis apivorus,
+158BDC90F07DF1D2,Cinereous Vulture,Accipitriformes, Accipitridae,Aegypius monachus,Uncertain originNear-threatened
+0419DDC2F668EEE5,White-backed Vulture,Accipitriformes, Accipitridae,Gyps africanus,Uncertain originCritically endangered
+76B512B1EE9B10EC,Rüppell's Griffon,Accipitriformes, Accipitridae,Gyps rueppelli,Uncertain originCritically endangered
+5D1987CEE4005AA2,Eurasian Griffon,Accipitriformes, Accipitridae,Gyps fulvus,Rare/Accidental
+8372FFBAA4080FBB,Short-toed Snake-Eagle,Accipitriformes, Accipitridae,Circaetus gallicus,Rare/Accidental
+BAC4CA22EDCC74E7,Greater Spotted Eagle,Accipitriformes, Accipitridae,Clanga clanga,Rare/AccidentalVulnerable
+4B8CC2853542FFED,Booted Eagle,Accipitriformes, Accipitridae,Hieraaetus pennatus,Uncertain origin
+5F8E7CA845BD413F,Golden Eagle,Accipitriformes, Accipitridae,Aquila chrysaetos,
+DB376A66278ED21E,Eurasian Sparrowhawk,Accipitriformes, Accipitridae,Accipiter nisus,
+95DD1855EC896B90,Eurasian Goshawk,Accipitriformes, Accipitridae,Astur gentilis,
+AE5956D5CF79C8F0,American Goshawk,Accipitriformes, Accipitridae,Astur atricapillus,Rare/Accidental
+E2A19474E62F83E1,Western Marsh Harrier,Accipitriformes, Accipitridae,Circus aeruginosus,
+F558C7F96E40C134,Hen Harrier,Accipitriformes, Accipitridae,Circus cyaneus,
+A091D50AA92D949C,Northern Harrier,Accipitriformes, Accipitridae,Circus hudsonius,Rare/Accidental
+22647E26E5C80F2E,Pallid Harrier,Accipitriformes, Accipitridae,Circus macrourus,Rare/AccidentalNear-threatened
+63B6412E23CC0D93,Montagu's Harrier,Accipitriformes, Accipitridae,Circus pygargus,
+451D6FC8A169D726,Red Kite,Accipitriformes, Accipitridae,Milvus milvus,
+06D9A2C8D1E3678A,Black Kite,Accipitriformes, Accipitridae,Milvus migrans,Rare/Accidental
+5A3D91D3254A568D,White-tailed Eagle,Accipitriformes, Accipitridae,Haliaeetus albicilla,
+FED3756C12CF67FA,Bald Eagle,Accipitriformes, Accipitridae,Haliaeetus leucocephalus,Rare/Accidental
+90B13ACF984D0DDF,Rough-legged Hawk,Accipitriformes, Accipitridae,Buteo lagopus,
+3C0C325D1141B36B,Common Buzzard,Accipitriformes, Accipitridae,Buteo buteo,
+CC65921FEBE1BB96,Long-legged Buzzard,Accipitriformes, Accipitridae,Buteo rufinus,Rare/Accidental
+CFD6F2750CBB4D94,Western Barn Owl,Strigiformes, Tytonidae,Tyto alba,
+2C7AA1546D80617E,Eurasian Scops-Owl,Strigiformes, Strigidae,Otus scops,Rare/Accidental
+5B23B360E7DEC4A9,Snowy Owl,Strigiformes, Strigidae,Bubo scandiacus,Rare/AccidentalVulnerable
+C2018A5DD8CDB5F5,Northern Hawk Owl,Strigiformes, Strigidae,Surnia ulula,Rare/Accidental
+9A7B268C4EF6F803,Little Owl,Strigiformes, Strigidae,Athene noctua,
+37A121744F77C1DB,Tawny Owl,Strigiformes, Strigidae,Strix aluco,
+FC4D40D2D5CEA6BE,Long-eared Owl,Strigiformes, Strigidae,Asio otus,
+8F123A11E5DADFDD,Short-eared Owl,Strigiformes, Strigidae,Asio flammeus,
+8AB4EAF6DBFA02CE,Boreal Owl,Strigiformes, Strigidae,Aegolius funereus,Rare/Accidental
+FA2F91259125A6FA,Eurasian Hoopoe,Bucerotiformes, Upupidae,Upupa epops,
+6EE4511347F342C4,Blue-cheeked Bee-eater,Coraciiformes, Meropidae,Merops persicus,Rare/Accidental
+66AA3934DBAD18BC,European Bee-eater,Coraciiformes, Meropidae,Merops apiaster,
+9505E03D7416B365,Common Kingfisher,Coraciiformes, Alcedinidae,Alcedo atthis,
+3558066B4F7EEB8E,Belted Kingfisher,Coraciiformes, Alcedinidae,Megaceryle alcyon,Rare/Accidental
+7451A628C39538C5,European Roller,Coraciiformes, Coraciidae,Coracias garrulus,Rare/Accidental
+B2E6AB9FC2608DFA,Eurasian Wryneck,Piciformes, Picidae,Jynx torquilla,
+9BE68BD390E0D2FF,Yellow-bellied Sapsucker,Piciformes, Picidae,Sphyrapicus varius,Rare/Accidental
+D754DB8552A7AA42,Great Spotted Woodpecker,Piciformes, Picidae,Dendrocopos major,
+AB2F4BC0659B6630,Lesser Spotted Woodpecker,Piciformes, Picidae,Dryobates minor,
+A01014FF0A909DD8,Eurasian Green Woodpecker,Piciformes, Picidae,Picus viridis,
+EDB4BBA6E765E593,Black Woodpecker,Piciformes, Picidae,Dryocopus martius,Rare/Accidental
+FF9D71AF908266A5,Northern Flicker,Piciformes, Picidae,Colaptes auratus,Uncertain origin
+BECA271F14F77BEE,Lesser Kestrel,Falconiformes, Falconidae,Falco naumanni,Rare/Accidental
+2DAB45B833D396A3,Eurasian Kestrel,Falconiformes, Falconidae,Falco tinnunculus,
+20C2214E655A79AB,American Kestrel,Falconiformes, Falconidae,Falco sparverius,Rare/Accidental
+997A9437E564FCFE,Red-footed Falcon,Falconiformes, Falconidae,Falco vespertinus,Rare/AccidentalVulnerable
+E6137E65202F44F8,Amur Falcon,Falconiformes, Falconidae,Falco amurensis,Rare/Accidental
+9EA1F12D48EB0120,Eleonora's Falcon,Falconiformes, Falconidae,Falco eleonorae,Rare/Accidental
+F3DA111CC8A6841B,Merlin,Falconiformes, Falconidae,Falco columbarius,
+E91E287A2946B0C9,Eurasian Hobby,Falconiformes, Falconidae,Falco subbuteo,
+A9F5149411AE52AD,Saker Falcon,Falconiformes, Falconidae,Falco cherrug,Uncertain originEndangered
+E19252A76FC7845B,Gyrfalcon,Falconiformes, Falconidae,Falco rusticolus,Rare/Accidental
+47E5840880DC9FA8,Peregrine Falcon,Falconiformes, Falconidae,Falco peregrinus,
+6B1CFC3CFA400D78,Rose-ringed Parakeet,Psittaciformes, Psittaculidae,Psittacula krameri,Introduced species
+7B0669CBD8FC7A17,Yellow-bellied Flycatcher,Passeriformes, Tyrannidae,Empidonax flaviventris,Rare/Accidental
+2778A3F42BBFEBD5,Acadian Flycatcher,Passeriformes, Tyrannidae,Empidonax virescens,Rare/Accidental
+338088120A17D3EA,Alder Flycatcher,Passeriformes, Tyrannidae,Empidonax alnorum,Rare/Accidental
+62CA2AF81AF5B68D,Eastern Phoebe,Passeriformes, Tyrannidae,Sayornis phoebe,Rare/Accidental
+082D833CF61D6360,Eastern Kingbird,Passeriformes, Tyrannidae,Tyrannus tyrannus,Rare/Accidental
+F8DDF6A6429E64D0,Yellow-throated Vireo,Passeriformes, Vireonidae,Vireo flavifrons,Rare/Accidental
+447A1BA516A43F9A,Philadelphia Vireo,Passeriformes, Vireonidae,Vireo philadelphicus,Rare/Accidental
+847717E2FC283AD8,Red-eyed Vireo,Passeriformes, Vireonidae,Vireo olivaceus,
+92A772BBB88868CD,Eurasian Golden Oriole,Passeriformes, Oriolidae,Oriolus oriolus,
+4C263A0E9863761B,Indian Golden Oriole,Passeriformes, Oriolidae,Oriolus kundoo,Rare/Accidental
+F2CEFD1A4EA5F608,Red-backed Shrike,Passeriformes, Laniidae,Lanius collurio,
+EE7915A2B3EB856E,Red-tailed Shrike,Passeriformes, Laniidae,Lanius phoenicuroides,Rare/Accidental
+97166F728A7D0E91,Isabelline Shrike,Passeriformes, Laniidae,Lanius isabellinus,Rare/Accidental
+E4968582E577D9D1,Brown Shrike,Passeriformes, Laniidae,Lanius cristatus,Rare/Accidental
+69FC190BC179A4FD,Long-tailed Shrike,Passeriformes, Laniidae,Lanius schach,
+EDE09959B80DFDAB,Iberian Gray Shrike,Passeriformes, Laniidae,Lanius meridionalis,Rare/AccidentalVulnerable
+DB2501EEBA3D38AA,Great Gray Shrike,Passeriformes, Laniidae,Lanius excubitor,Rare/Accidental
+8852337B06E8A14E,Lesser Gray Shrike,Passeriformes, Laniidae,Lanius minor,Rare/Accidental
+E90CC64A3A32FE26,Masked Shrike,Passeriformes, Laniidae,Lanius nubicus,Rare/Accidental
+7E70D490A6476D16,Woodchat Shrike,Passeriformes, Laniidae,Lanius senator,Rare/AccidentalNear-threatened
+D8D10F2C5A9AA49F,Eurasian Jay,Passeriformes, Corvidae,Garrulus glandarius,
+FBBBA943D3AB65E8,Eurasian Magpie,Passeriformes, Corvidae,Pica pica,
+D9B001DFE77E8A73,Northern Nutcracker,Passeriformes, Corvidae,Nucifraga caryocatactes,Rare/Accidental
+18D2C42A9AD30CD8,Red-billed Chough,Passeriformes, Corvidae,Pyrrhocorax pyrrhocorax,
+D4C32F8E792B65BA,Eurasian Jackdaw,Passeriformes, Corvidae,Coloeus monedula,
+1078FFEA23D9DD25,Rook,Passeriformes, Corvidae,Corvus frugilegus,
+26FB62DAE4262583,Carrion Crow,Passeriformes, Corvidae,Corvus corone,
+F13D8350405F3C10,Hooded Crow,Passeriformes, Corvidae,Corvus cornix,
+34D538E14AA16E13,Pied Crow,Passeriformes, Corvidae,Corvus albus,Uncertain origin
+B9B272F40EE1570F,Common Raven,Passeriformes, Corvidae,Corvus corax,
+166CD4402D4A416B,Coal Tit,Passeriformes, Paridae,Periparus ater,
+E553193354C74B21,Crested Tit,Passeriformes, Paridae,Lophophanes cristatus,
+523763E55D4A8153,Marsh Tit,Passeriformes, Paridae,Poecile palustris,
+F963401E5AFA01DC,Willow Tit,Passeriformes, Paridae,Poecile montanus,
+9BE53D340F9A4305,Eurasian Blue Tit,Passeriformes, Paridae,Cyanistes caeruleus,
+E15BC0CB3DEAA621,Great Tit,Passeriformes, Paridae,Parus major,
+F81EB04951AA84BB,Eurasian Penduline-Tit,Passeriformes, Remizidae,Remiz pendulinus,Rare/Accidental
+742EC2F1CA97F56C,Wood Lark,Passeriformes, Alaudidae,Lullula arborea,
+400B3679BCB80EDB,White-winged Lark,Passeriformes, Alaudidae,Alauda leucoptera,Rare/Accidental
+ED2AC04E888EF9CF,Eurasian Skylark,Passeriformes, Alaudidae,Alauda arvensis,
+21ADC3ED8E24C1C9,Crested Lark,Passeriformes, Alaudidae,Galerida cristata,Rare/Accidental
+FC0A1D951186B019,Horned Lark,Passeriformes, Alaudidae,Eremophila alpestris,
+4091A51E0603BAF2,Greater Short-toed Lark,Passeriformes, Alaudidae,Calandrella brachydactyla,Rare/Accidental
+367807919B4EA167,Bimaculated Lark,Passeriformes, Alaudidae,Melanocorypha bimaculata,Rare/Accidental
+BDC24A8AA8A51BF9,Calandra Lark,Passeriformes, Alaudidae,Melanocorypha calandra,Rare/Accidental
+811FC71929CD3B00,Black Lark,Passeriformes, Alaudidae,Melanocorypha yeltoniensis,Rare/Accidental
+FE1FE1852275CE88,Mediterranean Short-toed Lark,Passeriformes, Alaudidae,Alaudala rufescens,Rare/Accidental
+7D59F91D9548DCE7,Bearded Reedling,Passeriformes, Panuridae,Panurus biarmicus,
+AEE2063F66AE0C70,Zitting Cisticola,Passeriformes, Cisticolidae,Cisticola juncidis,Rare/Accidental
+213C212A93364C7C,Thick-billed Warbler,Passeriformes, Acrocephalidae,Arundinax aedon,Rare/Accidental
+1A6C6F1718FEDB5D,Booted Warbler,Passeriformes, Acrocephalidae,Iduna caligata,Rare/Accidental
+A8242804046F8F14,Sykes's Warbler,Passeriformes, Acrocephalidae,Iduna rama,Rare/Accidental
+BAE527A2F70F6241,Eastern Olivaceous Warbler,Passeriformes, Acrocephalidae,Iduna pallida,Rare/Accidental
+A7275096DD6A3692,Western Olivaceous Warbler,Passeriformes, Acrocephalidae,Iduna opaca,Rare/Accidental
+791DED180041E350,Olive-tree Warbler,Passeriformes, Acrocephalidae,Hippolais olivetorum,Rare/Accidental
+DCDD1BCA24E978F5,Melodious Warbler,Passeriformes, Acrocephalidae,Hippolais polyglotta,
+869C978C8E5840C8,Icterine Warbler,Passeriformes, Acrocephalidae,Hippolais icterina,
+C15141A60961F8BC,Aquatic Warbler,Passeriformes, Acrocephalidae,Acrocephalus paludicola,Vulnerable
+FED5AED5C59A00B6,Sedge Warbler,Passeriformes, Acrocephalidae,Acrocephalus schoenobaenus,
+781FE53F2425B4C1,Paddyfield Warbler,Passeriformes, Acrocephalidae,Acrocephalus agricola,Rare/Accidental
+B22EAFC877C38967,Blyth's Reed Warbler,Passeriformes, Acrocephalidae,Acrocephalus dumetorum,Rare/Accidental
+B675E006C3745A12,Marsh Warbler,Passeriformes, Acrocephalidae,Acrocephalus palustris,
+3F0EE4749050AA59,Common Reed Warbler,Passeriformes, Acrocephalidae,Acrocephalus scirpaceus,
+B283E33243C17D97,Great Reed Warbler,Passeriformes, Acrocephalidae,Acrocephalus arundinaceus,Rare/Accidental
+4C3CF429E3FEFBA2,Pallas's Grasshopper Warbler,Passeriformes, Locustellidae,Helopsaltes certhiola,Rare/Accidental
+10A37318BC10CA74,Lanceolated Warbler,Passeriformes, Locustellidae,Locustella lanceolata,Rare/Accidental
+2B020CA0ACF13B19,River Warbler,Passeriformes, Locustellidae,Locustella fluviatilis,Rare/Accidental
+2D46BB9888C846D0,Savi's Warbler,Passeriformes, Locustellidae,Locustella luscinioides,
+BC0E4C9F87721B1A,Common Grasshopper Warbler,Passeriformes, Locustellidae,Locustella naevia,
+94A1C447583CB6D2,Bank Swallow,Passeriformes, Hirundinidae,Riparia riparia,
+BBA2F9DF60AE60BF,Tree Swallow,Passeriformes, Hirundinidae,Tachycineta bicolor,Rare/Accidental
+ACB9D1C6AB7F3371,Purple Martin,Passeriformes, Hirundinidae,Progne subis,Rare/Accidental
+2C1981BBDAF51B2D,Northern Rough-winged Swallow,Passeriformes, Hirundinidae,Stelgidopteryx serripennis,Rare/Accidental
+6F2AF9D09463566F,Eurasian Crag-Martin,Passeriformes, Hirundinidae,Ptyonoprogne rupestris,Rare/Accidental
+58C502EA7AF3E023,Barn Swallow,Passeriformes, Hirundinidae,Hirundo rustica,
+30FEC6BE132E1224,Western House-Martin,Passeriformes, Hirundinidae,Delichon urbicum,
+15FD41232BC5127D,Asian House-Martin,Passeriformes, Hirundinidae,Delichon dasypus,Rare/Accidental
+B4967714063AC2A2,European Red-rumped Swallow,Passeriformes, Hirundinidae,Cecropis rufula,Rare/Accidental
+6FE118C653CD4745,Eastern Red-rumped Swallow,Passeriformes, Hirundinidae,Cecropis daurica,Rare/Accidental
+F5C181CA4478FD86,Cliff Swallow,Passeriformes, Hirundinidae,Petrochelidon pyrrhonota,Rare/Accidental
+572C4C7FD4322D14,Wood Warbler,Passeriformes, Phylloscopidae,Phylloscopus sibilatrix,
+C00674ED5FC9DB8A,Western Bonelli's Warbler,Passeriformes, Phylloscopidae,Phylloscopus bonelli,Rare/Accidental
+666F9FC9350991FD,Eastern Bonelli's Warbler,Passeriformes, Phylloscopidae,Phylloscopus orientalis,Rare/Accidental
+0C120038E5CA37D7,Yellow-browed Warbler,Passeriformes, Phylloscopidae,Phylloscopus inornatus,
+BC391A830AD8EF0E,Hume's Warbler,Passeriformes, Phylloscopidae,Phylloscopus humei,Rare/Accidental
+943E36CADFE7551B,Pallas's Leaf Warbler,Passeriformes, Phylloscopidae,Phylloscopus proregulus,
+9A536399807238AF,Radde's Warbler,Passeriformes, Phylloscopidae,Phylloscopus schwarzi,Rare/Accidental
+37DD095F45E0F5CA,Sulphur-bellied Warbler,Passeriformes, Phylloscopidae,Phylloscopus griseolus,Rare/Accidental
+96819591FD94B905,Dusky Warbler,Passeriformes, Phylloscopidae,Phylloscopus fuscatus,Rare/Accidental
+88F4B969622B8268,Willow Warbler,Passeriformes, Phylloscopidae,Phylloscopus trochilus,
+F9F4B04D08108B41,Common Chiffchaff,Passeriformes, Phylloscopidae,Phylloscopus collybita,
+12EE678EE03BDFB2,Iberian Chiffchaff,Passeriformes, Phylloscopidae,Phylloscopus ibericus,Rare/Accidental
+2D272F5A53B5B83E,Eastern Crowned Warbler,Passeriformes, Phylloscopidae,Phylloscopus coronatus,Rare/Accidental
+E22B84950977F4D9,Brown Woodland-Warbler,Passeriformes, Phylloscopidae,Phylloscopus umbrovirens,Rare/Accidental
+3542C46BC98FB367,Green Warbler,Passeriformes, Phylloscopidae,Phylloscopus nitidus,Rare/Accidental
+23EF1BD9DE02E680,Greenish Warbler,Passeriformes, Phylloscopidae,Phylloscopus trochiloides,Rare/Accidental
+38C788AE632E48DF,Two-barred Warbler,Passeriformes, Phylloscopidae,Phylloscopus plumbeitarsus,Rare/Accidental
+D0FA238555FF712A,Pale-legged Leaf Warbler,Passeriformes, Phylloscopidae,Phylloscopus tenellipes,Rare/Accidental
+ECFC7E6C1A57A7BE,Arctic Warbler,Passeriformes, Phylloscopidae,Phylloscopus borealis,Rare/Accidental
+F3E9CE954FAF5EF5,Cetti's Warbler,Passeriformes, Scotocercidae,Cettia cetti,
+547163C22167E31B,Long-tailed Tit,Passeriformes, Aegithalidae,Aegithalos caudatus,
+61F9065BE0965E1A,Eurasian Blackcap,Passeriformes, Sylviidae,Sylvia atricapilla,
+A6A4FC63261EA8CD,Garden Warbler,Passeriformes, Sylviidae,Sylvia borin,
+1EA60B94FAFE0C5C,Barred Warbler,Passeriformes, Sylviidae,Curruca nisoria,
+0DCD05BE8EE35C8D,Lesser Whitethroat,Passeriformes, Sylviidae,Curruca curruca,
+95E7E0E5E3481A63,Western Orphean Warbler,Passeriformes, Sylviidae,Curruca hortensis,Rare/Accidental
+37015E6154731355,Eastern Orphean Warbler,Passeriformes, Sylviidae,Curruca crassirostris,Rare/Accidental
+58F3D3E544D9755B,Asian Desert Warbler,Passeriformes, Sylviidae,Curruca nana,Rare/Accidental
+A1B09A861B190E01,Rüppell's Warbler,Passeriformes, Sylviidae,Curruca ruppeli,Rare/Accidental
+B0D094830E71F76A,Sardinian Warbler,Passeriformes, Sylviidae,Curruca melanocephala,Rare/Accidental
+3FC15B0694A20507,Moltoni's Warbler,Passeriformes, Sylviidae,Curruca subalpina,Rare/Accidental
+62A53820623A8F3E,Western Subalpine Warbler,Passeriformes, Sylviidae,Curruca iberiae,Rare/Accidental
+B13D68B156442119,Eastern Subalpine Warbler,Passeriformes, Sylviidae,Curruca cantillans,
+14AFBA82D556918C,Greater Whitethroat,Passeriformes, Sylviidae,Curruca communis,
+BFECF5F8F49E2869,Spectacled Warbler,Passeriformes, Sylviidae,Curruca conspicillata,
+6E1206E4FC70EB9E,Marmora's Warbler,Passeriformes, Sylviidae,Curruca sarda,Rare/Accidental
+85629EF4042C9DBB,Dartford Warbler,Passeriformes, Sylviidae,Curruca undata,Near-threatened
+B60B1166CE5DDFA7,Ruby-crowned Kinglet,Passeriformes, Regulidae,Corthylio calendula,Rare/Accidental
+1C51C1095E427BB8,Goldcrest,Passeriformes, Regulidae,Regulus regulus,
+85B03849153146D8,Common Firecrest,Passeriformes, Regulidae,Regulus ignicapilla,
+89C425901C5B5343,Wallcreeper,Passeriformes, Tichodromidae,Tichodroma muraria,Rare/Accidental
+0716A71C439DC09E,Red-breasted Nuthatch,Passeriformes, Sittidae,Sitta canadensis,Rare/Accidental
+9C2B53A087F44E10,Eurasian Nuthatch,Passeriformes, Sittidae,Sitta europaea,
+73BE9A87F6A32D6A,Eurasian Treecreeper,Passeriformes, Certhiidae,Certhia familiaris,
+552E2BA9FE43A2EE,Short-toed Treecreeper,Passeriformes, Certhiidae,Certhia brachydactyla,Rare/Accidental
+AF700208E4339572,Eurasian Wren,Passeriformes, Troglodytidae,Troglodytes troglodytes,
+FDECE3B9278A17EC,White-throated Dipper,Passeriformes, Cinclidae,Cinclus cinclus,
+94A4403295E2D9BE,European Starling,Passeriformes, Sturnidae,Sturnus vulgaris,
+24208346AD77666E,Rosy Starling,Passeriformes, Sturnidae,Pastor roseus,Rare/Accidental
+2FC5C3978171719C,Daurian Starling,Passeriformes, Sturnidae,Agropsar sturninus,Uncertain origin
+95B77F083F49835F,Gray Catbird,Passeriformes, Mimidae,Dumetella carolinensis,Rare/Accidental
+C8F9F2D013E9D057,Brown Thrasher,Passeriformes, Mimidae,Toxostoma rufum,Rare/Accidental
+7EFF698DC564CF69,Northern Mockingbird,Passeriformes, Mimidae,Mimus polyglottos,Rare/Accidental
+8E267A2656A555F5,White's Thrush,Passeriformes, Turdidae,Zoothera aurea,Rare/Accidental
+F58200CE40A4720C,Scaly Thrush,Passeriformes, Turdidae,Zoothera dauma,Rare/Accidental
+583128734B0F566A,Varied Thrush,Passeriformes, Turdidae,Ixoreus naevius,Rare/Accidental
+0B8F4EE60AFF4B25,Veery,Passeriformes, Turdidae,Catharus fuscescens,Rare/Accidental
+B904BB227C07317E,Gray-cheeked Thrush,Passeriformes, Turdidae,Catharus minimus,Rare/Accidental
+E53FC25C090A6AD8,Swainson's Thrush,Passeriformes, Turdidae,Catharus ustulatus,Rare/Accidental
+B01E8BD42E1785F2,Hermit Thrush,Passeriformes, Turdidae,Catharus guttatus,Rare/Accidental
+8E1D9327B8DAFD54,Wood Thrush,Passeriformes, Turdidae,Hylocichla mustelina,Rare/Accidental
+E7163B81013F6CCC,Siberian Thrush,Passeriformes, Turdidae,Geokichla sibirica,Rare/Accidental
+A95B43F1E9D10296,Mistle Thrush,Passeriformes, Turdidae,Turdus viscivorus,
+D929EB214A698282,Song Thrush,Passeriformes, Turdidae,Turdus philomelos,
+A8A85BCF1AFB7BBD,Redwing,Passeriformes, Turdidae,Turdus iliacus,Near-threatened
+88BB4F2A0C8492A5,Eurasian Blackbird,Passeriformes, Turdidae,Turdus merula,
+D77E4B418D581FB2,American Robin,Passeriformes, Turdidae,Turdus migratorius,
+6E24CCD187765B9A,Eyebrowed Thrush,Passeriformes, Turdidae,Turdus obscurus,Rare/Accidental
+D120D5A070E8123C,Fieldfare,Passeriformes, Turdidae,Turdus pilaris,
+CE71B4FF837F276A,Ring Ouzel,Passeriformes, Turdidae,Turdus torquatus,
+AECDBFFA55C87E24,Black-throated Thrush,Passeriformes, Turdidae,Turdus atrogularis,
+77B6BACB4F619FBB,Red-throated Thrush,Passeriformes, Turdidae,Turdus ruficollis,
+E3B6927817B7ABB4,Dusky Thrush,Passeriformes, Turdidae,Turdus eunomus,Rare/Accidental
+22761AD4A981E2F6,Naumann's Thrush,Passeriformes, Turdidae,Turdus naumanni,Rare/Accidental
+585D0B1ACD00B47F,Asian Brown Flycatcher,Passeriformes, Muscicapidae,Muscicapa dauurica,Uncertain origin
+EE8206E703914D22,Spotted Flycatcher,Passeriformes, Muscicapidae,Muscicapa striata,
+B68BD0D25647A5D2,Rufous-tailed Scrub-Robin,Passeriformes, Muscicapidae,Cercotrichas galactotes,Rare/Accidental
+C809B2B90399A43D,European Robin,Passeriformes, Muscicapidae,Erithacus rubecula,
+9C05639866AC8592,Rufous-tailed Robin,Passeriformes, Muscicapidae,Larvivora sibilans,Rare/Accidental
+A8AA7E198F39BFB4,Siberian Blue Robin,Passeriformes, Muscicapidae,Larvivora cyane,Rare/Accidental
+73BD4B293448BBD5,White-throated Robin,Passeriformes, Muscicapidae,Irania gutturalis,Rare/Accidental
+6EC667529FB53E43,Thrush Nightingale,Passeriformes, Muscicapidae,Luscinia luscinia,Rare/Accidental
+7C7F0DEE5B364038,Common Nightingale,Passeriformes, Muscicapidae,Luscinia megarhynchos,
+AFD6FD811AA7D6A7,Bluethroat,Passeriformes, Muscicapidae,Luscinia svecica,
+786B0F98D1EE4C54,Siberian Rubythroat,Passeriformes, Muscicapidae,Calliope calliope,Rare/Accidental
+E54B8DEE06ACE380,Red-flanked Bluetail,Passeriformes, Muscicapidae,Tarsiger cyanurus,Rare/Accidental
+0557B8E5492F35F2,Mugimaki Flycatcher,Passeriformes, Muscicapidae,Ficedula mugimaki,Uncertain origin
+99985173A619C8F2,Taiga Flycatcher,Passeriformes, Muscicapidae,Ficedula albicilla,Rare/Accidental
+6A3CA06B2496B003,Red-breasted Flycatcher,Passeriformes, Muscicapidae,Ficedula parva,
+6E352E1870A195B7,European Pied Flycatcher,Passeriformes, Muscicapidae,Ficedula hypoleuca,
+CD1B215680AA1E68,Atlas Flycatcher,Passeriformes, Muscicapidae,Ficedula speculigera,Rare/Accidental
+0B2F80584ED0F07E,Collared Flycatcher,Passeriformes, Muscicapidae,Ficedula albicollis,Rare/Accidental
+7A8D10C08494138B,Moussier's Redstart,Passeriformes, Muscicapidae,Phoenicurus moussieri,Rare/Accidental
+06DD9D954313582E,Common Redstart,Passeriformes, Muscicapidae,Phoenicurus phoenicurus,
+612B5C244E272075,Black Redstart,Passeriformes, Muscicapidae,Phoenicurus ochruros,
+736D38E7F9967842,Rufous-tailed Rock-Thrush,Passeriformes, Muscicapidae,Monticola saxatilis,Rare/Accidental
+41D76F4B19ACB4BD,Blue Rock-Thrush,Passeriformes, Muscicapidae,Monticola solitarius,
+A0EDAEA2E89A9A96,Whinchat,Passeriformes, Muscicapidae,Saxicola rubetra,
+0EA8F8B905405FB3,European Stonechat,Passeriformes, Muscicapidae,Saxicola rubicola,
+DB645AF550561B05,Siberian Stonechat,Passeriformes, Muscicapidae,Saxicola maurus,Rare/Accidental
+80216E854A9890D8,Amur Stonechat,Passeriformes, Muscicapidae,Saxicola stejnegeri,Rare/Accidental
+DF526047637004DD,Northern Wheatear,Passeriformes, Muscicapidae,Oenanthe oenanthe,
+3983013B8ABF7894,Atlas Wheatear,Passeriformes, Muscicapidae,Oenanthe seebohmi,Rare/Accidental
+E6C6F74630B2257B,Isabelline Wheatear,Passeriformes, Muscicapidae,Oenanthe isabellina,Rare/Accidental
+078BC0ED34F512AE,Desert Wheatear,Passeriformes, Muscicapidae,Oenanthe deserti,Rare/Accidental
+CBB941834F230C88,Western Black-eared Wheatear,Passeriformes, Muscicapidae,Oenanthe hispanica,Rare/Accidental
+DF26171F72EF3655,Eastern Black-eared Wheatear,Passeriformes, Muscicapidae,Oenanthe melanoleuca,Rare/Accidental
+2FB34D83F74FCEAB,Pied Wheatear,Passeriformes, Muscicapidae,Oenanthe pleschanka,Rare/Accidental
+1C98EA2F8CD4DD15,Black Wheatear,Passeriformes, Muscicapidae,Oenanthe leucura,Rare/Accidental
+CAFA98EEE7F9CD86,White-crowned Wheatear,Passeriformes, Muscicapidae,Oenanthe leucopyga,Rare/Accidental
+AEF821EC4625150E,Bohemian Waxwing,Passeriformes, Bombycillidae,Bombycilla garrulus,
+9437D635FF4E2607,Cedar Waxwing,Passeriformes, Bombycillidae,Bombycilla cedrorum,Rare/Accidental
+A783468FC167312E,Alpine Accentor,Passeriformes, Prunellidae,Prunella collaris,Rare/Accidental
+D32200407D81F285,Siberian Accentor,Passeriformes, Prunellidae,Prunella montanella,Rare/Accidental
+26530C865C4A655C,Dunnock,Passeriformes, Prunellidae,Prunella modularis,
+240E33900CE34D44,House Sparrow,Passeriformes, Passeridae,Passer domesticus,
+3718C3F9FDA2A7FB,Italian Sparrow,Passeriformes, Passeridae,Passer italiae,Rare/AccidentalVulnerable
+5A8E09A18B86D140,Spanish Sparrow,Passeriformes, Passeridae,Passer hispaniolensis,Rare/Accidental
+C22FBF8D36F91BCA,Eurasian Tree Sparrow,Passeriformes, Passeridae,Passer montanus,
+F8748F12A35515B1,Rock Sparrow,Passeriformes, Passeridae,Petronia petronia,Rare/Accidental
+3E389D037AA10A4C,White-winged Snowfinch,Passeriformes, Passeridae,Montifringilla nivalis,Uncertain origin
+AE073221679039C2,Gray Wagtail,Passeriformes, Motacillidae,Motacilla cinerea,
+5983D6776C4C4F85,Western Yellow Wagtail,Passeriformes, Motacillidae,Motacilla flava,
+5487B6500F6BCF90,Eastern Yellow Wagtail,Passeriformes, Motacillidae,Motacilla tschutschensis,Rare/Accidental
+5B0295C122B63ED3,Citrine Wagtail,Passeriformes, Motacillidae,Motacilla citreola,Rare/Accidental
+400E032C4624AA36,White Wagtail,Passeriformes, Motacillidae,Motacilla alba,
+41ECD10E24E8772D,Richard's Pipit,Passeriformes, Motacillidae,Anthus richardi,
+57A0C80B2C7FBDE1,Paddyfield Pipit,Passeriformes, Motacillidae,Anthus rufulus,Rare/Accidental
+9F65782F19136F06,Blyth's Pipit,Passeriformes, Motacillidae,Anthus godlewskii,Rare/Accidental
+250CDA5828B68D0A,Tawny Pipit,Passeriformes, Motacillidae,Anthus campestris,
+14873249B607CEB1,Meadow Pipit,Passeriformes, Motacillidae,Anthus pratensis,
+365F5E975B414FE6,Tree Pipit,Passeriformes, Motacillidae,Anthus trivialis,
+25F7AF6531AEED37,Olive-backed Pipit,Passeriformes, Motacillidae,Anthus hodgsoni,Rare/Accidental
+9DC4CC5470034A96,Pechora Pipit,Passeriformes, Motacillidae,Anthus gustavi,Rare/Accidental
+319D044A667563CD,Red-throated Pipit,Passeriformes, Motacillidae,Anthus cervinus,Rare/Accidental
+0A3FA18502F4FC70,Water Pipit,Passeriformes, Motacillidae,Anthus spinoletta,
+E1CBB1C259093F06,Rock Pipit,Passeriformes, Motacillidae,Anthus petrosus,
+CDA2E56B1B283EA8,American Pipit,Passeriformes, Motacillidae,Anthus rubescens,Rare/Accidental
+6364E4A53B9D5D99,Common Chaffinch,Passeriformes, Fringillidae,Fringilla coelebs,
+E16B2C0328E05DC5,Brambling,Passeriformes, Fringillidae,Fringilla montifringilla,
+C6B5497C9DB6796A,Evening Grosbeak,Passeriformes, Fringillidae,Coccothraustes vespertinus,Rare/AccidentalVulnerable
+84E1F1149261F19E,Hawfinch,Passeriformes, Fringillidae,Coccothraustes coccothraustes,
+3A713345F43AFFA6,Common Rosefinch,Passeriformes, Fringillidae,Carpodacus erythrinus,
+83AC4DAD94AFC411,Pine Grosbeak,Passeriformes, Fringillidae,Pinicola enucleator,Rare/Accidental
+24764DC7AD26E5F7,Eurasian Bullfinch,Passeriformes, Fringillidae,Pyrrhula pyrrhula,
+8049F70788740F8F,Trumpeter Finch,Passeriformes, Fringillidae,Bucanetes githagineus,Rare/Accidental
+65BD2033E2A722C8,European Greenfinch,Passeriformes, Fringillidae,Chloris chloris,
+6CD4E38EB75CA3A0,Twite,Passeriformes, Fringillidae,Linaria flavirostris,
+32635892A4EB874F,Eurasian Linnet,Passeriformes, Fringillidae,Linaria cannabina,
+B6C8DDB2812B061A,Redpoll,Passeriformes, Fringillidae,Acanthis flammea,
+CAAD3E23531C26C5,Parrot Crossbill,Passeriformes, Fringillidae,Loxia pytyopsittacus,Rare/Accidental
+74FCC44D26021731,Scottish Crossbill,Passeriformes, Fringillidae,Loxia scotica,Endemic
+135564AAF6B01DA2,Red Crossbill,Passeriformes, Fringillidae,Loxia curvirostra,
+80C297E6B82452E7,White-winged Crossbill,Passeriformes, Fringillidae,Loxia leucoptera,Rare/Accidental
+59353A055941B20B,European Goldfinch,Passeriformes, Fringillidae,Carduelis carduelis,
+039E0011AA4F1420,Citril Finch,Passeriformes, Fringillidae,Carduelis citrinella,Rare/Accidental
+C3227709455B9AFF,European Serin,Passeriformes, Fringillidae,Serinus serinus,
+9820CECA12EC737D,Eurasian Siskin,Passeriformes, Fringillidae,Spinus spinus,
+3534E4CEBACCB166,Lapland Longspur,Passeriformes, Calcariidae,Calcarius lapponicus,
+9BEBC02505B416EE,Snow Bunting,Passeriformes, Calcariidae,Plectrophenax nivalis,
+E2D2CB88A9D95E42,Black-headed Bunting,Passeriformes, Emberizidae,Emberiza melanocephala,Rare/Accidental
+DBF8D184AA08A548,Red-headed Bunting,Passeriformes, Emberizidae,Emberiza bruniceps,Uncertain origin
+9A87EBB0B75C410B,Corn Bunting,Passeriformes, Emberizidae,Emberiza calandra,
+465C35EFDEEDEFDC,Chestnut-eared Bunting,Passeriformes, Emberizidae,Emberiza fucata,Rare/Accidental
+4836E64E80D5A372,Rock Bunting,Passeriformes, Emberizidae,Emberiza cia,Rare/Accidental
+EF5E57267BFFEC64,Godlewski's Bunting,Passeriformes, Emberizidae,Emberiza godlewskii,Uncertain origin
+9AAB8C2174EFDF60,Cirl Bunting,Passeriformes, Emberizidae,Emberiza cirlus,
+56FB47C05CB7275F,Yellowhammer,Passeriformes, Emberizidae,Emberiza citrinella,
+43EF3EA79A531279,Pine Bunting,Passeriformes, Emberizidae,Emberiza leucocephalos,Rare/Accidental
+4721056132879EB7,Ortolan Bunting,Passeriformes, Emberizidae,Emberiza hortulana,
+A7F3E6AE9A1929F9,Cretzschmar's Bunting,Passeriformes, Emberizidae,Emberiza caesia,Rare/Accidental
+C6D6D547670FE661,Pallas's Bunting,Passeriformes, Emberizidae,Emberiza pallasi,Rare/Accidental
+C0B9787440316E20,Reed Bunting,Passeriformes, Emberizidae,Emberiza schoeniclus,
+7574C0E53A34CCFD,Yellow-breasted Bunting,Passeriformes, Emberizidae,Emberiza aureola,Rare/AccidentalCritically endangered
+1866F80E52F4075F,Little Bunting,Passeriformes, Emberizidae,Emberiza pusilla,
+DA9746CEC82D30A3,Rustic Bunting,Passeriformes, Emberizidae,Emberiza rustica,Rare/AccidentalVulnerable
+9787BE57A273F64A,Black-faced Bunting,Passeriformes, Emberizidae,Emberiza spodocephala,Rare/Accidental
+ACDCF3CC14945335,Chestnut Bunting,Passeriformes, Emberizidae,Emberiza rutila,Uncertain origin
+4A50E26530277C6D,Yellow-browed Bunting,Passeriformes, Emberizidae,Emberiza chrysophrys,Rare/Accidental
+78509A5D6015C509,Lark Sparrow,Passeriformes, Passerellidae,Chondestes grammacus,Rare/Accidental
+3A7B1F59DE8F597D,Fox Sparrow,Passeriformes, Passerellidae,Passerella iliaca,Rare/Accidental
+05FF3C9B3C854D53,Dark-eyed Junco,Passeriformes, Passerellidae,Junco hyemalis,Rare/Accidental
+8601A4678CABA542,White-crowned Sparrow,Passeriformes, Passerellidae,Zonotrichia leucophrys,Rare/Accidental
+39BD9FF20A9613C4,White-throated Sparrow,Passeriformes, Passerellidae,Zonotrichia albicollis,Rare/Accidental
+31CE00C71528322F,Savannah Sparrow,Passeriformes, Passerellidae,Passerculus sandwichensis,Rare/Accidental
+A5F09E0521019564,Song Sparrow,Passeriformes, Passerellidae,Melospiza melodia,Rare/Accidental
+6090278A61F63C13,Eastern Towhee,Passeriformes, Passerellidae,Pipilo erythrophthalmus,Rare/Accidental
+3E2D0C9BADB782DB,Yellow-headed Blackbird,Passeriformes, Icteridae,Xanthocephalus xanthocephalus,Uncertain origin
+F845062FC976B85B,Bobolink,Passeriformes, Icteridae,Dolichonyx oryzivorus,Rare/Accidental
+5110842FA06DD11C,Baltimore Oriole,Passeriformes, Icteridae,Icterus galbula,Rare/Accidental
+C86D078E641FCE6D,Red-winged Blackbird,Passeriformes, Icteridae,Agelaius phoeniceus,Rare/Accidental
+1E1AB415D083AAD4,Brown-headed Cowbird,Passeriformes, Icteridae,Molothrus ater,Rare/Accidental
+CEA5B6AA48218C8A,Ovenbird,Passeriformes, Parulidae,Seiurus aurocapilla,Rare/Accidental
+709AF716468341F7,Northern Waterthrush,Passeriformes, Parulidae,Parkesia noveboracensis,Rare/Accidental
+83F326C81E3F2955,Golden-winged Warbler,Passeriformes, Parulidae,Vermivora chrysoptera,Rare/AccidentalNear-threatened
+B617FE7DF96090DD,Blue-winged Warbler,Passeriformes, Parulidae,Vermivora cyanoptera,Rare/Accidental
+4D207AF69A79DDCF,Black-and-white Warbler,Passeriformes, Parulidae,Mniotilta varia,Rare/Accidental
+D204A9309E8CCC3A,Tennessee Warbler,Passeriformes, Parulidae,Leiothlypis peregrina,Rare/Accidental
+BA4C8A02839564AC,Common Yellowthroat,Passeriformes, Parulidae,Geothlypis trichas,Rare/Accidental
+15EB30007E1908FD,Hooded Warbler,Passeriformes, Parulidae,Setophaga citrina,Rare/Accidental
+BED38F505F0B8509,American Redstart,Passeriformes, Parulidae,Setophaga ruticilla,Rare/Accidental
+DB20CB6B0A720B90,Cape May Warbler,Passeriformes, Parulidae,Setophaga tigrina,Rare/Accidental
+41062654293EB4E1,Northern Parula,Passeriformes, Parulidae,Setophaga americana,Rare/Accidental
+1E82CE1ECC54F928,Magnolia Warbler,Passeriformes, Parulidae,Setophaga magnolia,Rare/Accidental
+10C601D3BCC5A85C,Bay-breasted Warbler,Passeriformes, Parulidae,Setophaga castanea,Rare/Accidental
+4168AF09C7BCB40B,Blackburnian Warbler,Passeriformes, Parulidae,Setophaga fusca,Rare/Accidental
+A6C0C4A9DCB84453,Yellow Warbler,Passeriformes, Parulidae,Setophaga petechia,Rare/Accidental
+7AB1229BD3F33F46,Chestnut-sided Warbler,Passeriformes, Parulidae,Setophaga pensylvanica,Rare/Accidental
+544A5E6BC69CEAAC,Blackpoll Warbler,Passeriformes, Parulidae,Setophaga striata,Rare/AccidentalNear-threatened
+67B455A71B1C2506,Black-throated Blue Warbler,Passeriformes, Parulidae,Setophaga caerulescens,Rare/Accidental
+4AAEF54973E5453C,Palm Warbler,Passeriformes, Parulidae,Setophaga palmarum,Uncertain origin
+BC5A949807108302,Yellow-rumped Warbler,Passeriformes, Parulidae,Setophaga coronata,Rare/Accidental
+BBD736B24D12F548,Pale-legged Warbler,Passeriformes, Parulidae,Myiothlypis signata,Rare/Accidental
+F2D675AFB11EEEFF,Canada Warbler,Passeriformes, Parulidae,Cardellina canadensis,Rare/Accidental
+1F09CCCCBD97B861,Wilson's Warbler,Passeriformes, Parulidae,Cardellina pusilla,Rare/Accidental
+891798D9EFFE1F8D,Summer Tanager,Passeriformes, Cardinalidae,Piranga rubra,Rare/Accidental
+4210163221C2E458,Scarlet Tanager,Passeriformes, Cardinalidae,Piranga olivacea,Rare/Accidental
+7C2FCB13BAA660EE,Rose-breasted Grosbeak,Passeriformes, Cardinalidae,Pheucticus ludovicianus,Rare/Accidental
+A7A75EA1A9A57185,Blue Grosbeak,Passeriformes, Cardinalidae,Passerina caerulea,Uncertain origin
+043F337AA25E7D97,Indigo Bunting,Passeriformes, Cardinalidae,Passerina cyanea,Rare/Accidental
